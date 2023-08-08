@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tribute/static/css/main.f0848982.css",
+    "main.js": "/tribute/static/js/main.b1749292.js",
+    "static/media/image_1.webp": "/tribute/static/media/image_1.db719e8bff1ed1a59902.webp",
+    "static/media/i8.jpeg": "/tribute/static/media/i8.44b18d786d8c64af1e75.jpeg",
+    "static/media/i1.jpg": "/tribute/static/media/i1.a8e0c9af3404612279b4.jpg",
+    "static/media/i4.jpg": "/tribute/static/media/i4.9b54557ca09ba890c1e9.jpg",
+    "static/media/i9.jpg": "/tribute/static/media/i9.fb82f316e1706654708b.jpg",
+    "static/media/1200x0.jpg": "/tribute/static/media/1200x0.a2145630a9b422031e0a.jpg",
+    "static/media/5b-22-paul-graham-ycombinator.rsquare.w700.webp": "/tribute/static/media/c5f212b79d9a8113005311b19cda5c2d5b-22-paul-graham-ycombinator.rsquare.w700.c0828f20f2d4292e9aaa.webp",
+    "static/media/i2.jpeg": "/tribute/static/media/i2.6158e2d1ed10f8c2032a.jpeg",
+    "static/media/i3.webp": "/tribute/static/media/i3.f0a71aeb4ed379c2904f.webp",
+    "static/media/i6.jpeg": "/tribute/static/media/i6.6d913e163d8792b77ed4.jpeg",
+    "static/media/i11.jpg": "/tribute/static/media/i11.5d88eea1bc194fbb9438.jpg",
+    "index.html": "/tribute/index.html",
+    "main.f0848982.css.map": "/tribute/static/css/main.f0848982.css.map",
+    "main.b1749292.js.map": "/tribute/static/js/main.b1749292.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0848982.css",
+    "static/js/main.b1749292.js"
+  ]
+}
