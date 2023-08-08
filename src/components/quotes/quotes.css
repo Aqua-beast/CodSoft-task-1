@@ -1,0 +1,49 @@
+.wrapper{
+    background-color: #FFFFFF;
+    min-height: 50vh;
+    padding: 10vh 10vh;
+}
+
+.quotes-box {
+    display: grid;
+    /* height: 30vh; */
+    grid-template-columns: 1fr 3fr 1fr;
+}
+
+.prev {
+    grid-column: 1; 
+    padding-top: 10vh;
+    padding-left: 10vh;
+}
+
+.quotes {
+    grid-column: 2;
+}
+
+.quote {
+    margin-top: 2%;
+    font-size: xx-large;
+    padding: 25px;
+    text-align: center;
+}
+
+.author {
+    font-size: x-large;
+    padding: 25px;
+    text-align: center;
+}
+
+.next {
+    grid-column: 3;
+    padding-top: 10vh;
+    padding-left: 10vh;
+}
+
+@media screen and (max-width:991px) {
+    .quote {
+        font-size: x-large;
+    }
+    .author {
+        font-size: large;
+    }
+}

@@ -1,0 +1,102 @@
+.bg {
+    min-height: 60vh;
+    background-color: rgb(75, 75, 75);
+    padding: 20px 0;
+}
+
+.tit {
+    color: #FFD700;
+    text-align: center;
+}
+
+.case {  
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
+
+.left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 10%;
+    padding-top: 2vh;
+}
+
+.box1, .box3, .box5, .box7 {
+    padding-left: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: large;
+}
+
+.box1 {
+    background-color: #8F4DCB;
+}
+
+.box3 {
+    background-color: #a35cdd;
+}
+
+.box5 {
+    background-color: #CF9BFE;
+}
+
+.box7 {
+    background-color: #F0E1FF;
+} 
+
+.line {
+    margin-top: 0.5%;
+    border-left: 4px solid #e3df47;
+    height: 42vh;
+    width: 1px;
+    position: relative;
+}
+
+.dot{
+    border-left: 20px solid #e3df47;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: relative;
+    right: 1.5vh;
+}
+
+.right {
+    flex: 1;
+    padding-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 10%;
+}
+
+.box2, .box4, .box6, .box8 {
+    padding-left: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: large;
+}
+
+.box2 {
+    background-color: #FFB548;
+}
+
+.box4 {
+    background-color: #f4c681;
+}
+
+.box6 {
+    background-color: #FEF5A8;
+}
+
+.box8 {
+    background-color: #faf8e6;
+}
+
+.box1:hover, .box2:hover, .box3:hover, .box4:hover, .box5:hover, .box6:hover, .box7:hover, .box8:hover {
+    background-color: #7b7979;
+}

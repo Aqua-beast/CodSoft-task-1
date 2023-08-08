@@ -1,0 +1,29 @@
+.references {
+    min-height: 10vh;
+    padding: 2vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.social-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.texter {
+    font-size: larger;
+}
+
+.hov :hover {
+    color: #25b8e4
+}
