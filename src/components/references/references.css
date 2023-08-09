@@ -27,3 +27,9 @@
 .hov :hover {
     color: #25b8e4
 }
+
+@media screen and (max-width: 991px){
+    .texter {
+        font-size: medium;
+    }
+}

@@ -60,6 +60,17 @@
         display: block;
     }
     .content-box-1 div {
-        padding-left: 20px;
+        padding:0px 0px 0px 20px;
+    }
+    .content-box-2 div {
+        padding: 0px 0px 10px 20px;
+    }
+    .content-box-1 div p{
+        font-size: 1rem;
+        /* padding: 5px; */
+    }
+    .content-box-2 div p{
+        font-size: 1rem;
+        /* padding: 5px; */
     }
 }
